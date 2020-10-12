@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72457cab-41b5-4d89-82ff-24107471901c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../hello-world/hello-world.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/hello_world_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iSZdVfcVzSg9vW7TsjFCopKlV6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoProjects\src\destroy-demo\utils\token" />
+      <recent name="D:\GoProjects\src\destroy-demo\middleware" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/sarailQAQ/destroy-demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="destroy-demo" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/sarailQAQ/destroy-demo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/sarailQAQ/destroy-demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1602085570797">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="517" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1475.789@0.0.1475.789" timestamp="1602085570797" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601908944569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601908944569" />
+    <state width="1431" height="198" key="GridCell.Tab.0.bottom" timestamp="1602499800578">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="1431" height="198" key="GridCell.Tab.0.bottom/0.0.1475.789@0.0.1475.789" timestamp="1602499800578" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601906768096" />
+    <state width="1431" height="198" key="GridCell.Tab.0.center" timestamp="1602499800577">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="1431" height="198" key="GridCell.Tab.0.center/0.0.1475.789@0.0.1475.789" timestamp="1602499800577" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601906768096" />
+    <state width="1431" height="198" key="GridCell.Tab.0.left" timestamp="1602499800577">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="1431" height="198" key="GridCell.Tab.0.left/0.0.1475.789@0.0.1475.789" timestamp="1602499800577" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601906768096" />
+    <state width="1431" height="198" key="GridCell.Tab.0.right" timestamp="1602499800577">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="1431" height="198" key="GridCell.Tab.0.right/0.0.1475.789@0.0.1475.789" timestamp="1602499800577" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601906768096" />
+    <state x="400" y="110" width="672" height="678" key="search.everywhere.popup" timestamp="1602144506801">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="400" y="110" width="672" height="678" key="search.everywhere.popup/0.0.1475.789@0.0.1475.789" timestamp="1602144506801" />
+  </component>
+</project>
